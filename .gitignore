@@ -1,0 +1,4 @@
+# no .log files
+*.log
+# no .dll files
+*.dll
